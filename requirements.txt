@@ -1,2 +1,10 @@
 ultralytics
 ipykernel
+
+#autogen
+
+autogen-agentchat == 0.5.7
+autogen-ext[ollama]
+
+python-dotenv
+autogen-core
