@@ -10,3 +10,5 @@ autogen-ext[openai]
 
 python-dotenv
 autogen-core
+
+pillow
