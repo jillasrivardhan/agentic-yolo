@@ -6,5 +6,7 @@ ipykernel
 autogen-agentchat == 0.5.7
 autogen-ext[ollama]
 
+autogen-ext[openai]
+
 python-dotenv
 autogen-core
